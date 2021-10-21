@@ -44,9 +44,9 @@
 
 //scenario 5 : Arrow function
 
-myFunc();
-const myFunc=()=>{
-  console.log(`I Love JavaScript 5.`);
-}
+// myFunc();
+// const myFunc=()=>{
+//   console.log(`I Love JavaScript 5.`);
+// }
 
 //output: ReferenceError

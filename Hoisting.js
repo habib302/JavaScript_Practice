@@ -1,5 +1,5 @@
 //scenario 1
-//cosole.log(a);   
+// console.log(a);   
 
 //output:  ReferencError
 
@@ -26,7 +26,20 @@
 
 
 //scenario 5
-let a;
-console.log(a);
+// let a;
+// console.log(a);
 
 //output: undefined
+
+//scenario 6
+function hoist(){
+  a=20;
+  var b=100;
+}
+
+hoist();
+
+console.log(a);   //output:20
+console.log(b);   //
+
+
