@@ -15,8 +15,11 @@
 // console.log(name);
 
 //const variable
-const name2="habib const 1"
-console.log(name);
+// const name2="habib const 1"
+// console.log(name);
 
-name2="habib2 const 2"
-console.log(name);
+// name2="habib2 const 2"
+// console.log(name);
+
+first="habib"
+console.log(first);

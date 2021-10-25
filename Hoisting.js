@@ -5,31 +5,21 @@
 
 //scenario 2
 //console.log(a);
-//var a="Bangladesh";
-
-
-//output:  undefined
+//var a="Bangladesh";   //output:  undefined
 
 //scenario 3
 //console.log(a);
-//let a="Bangladesh";
-
-
-//output:  ReferencError
+// let a="Bangladesh";   //output:  ReferencError
 
 
 //scenario 4
 //var a;
-//console.log(a);
-
-//output:  undefined
+//console.log(a);  //output:  undefined
 
 
 //scenario 5
 // let a;
-// console.log(a);
-
-//output: undefined
+// console.log(a);   //output: undefined
 
 //scenario 6
 function hoist(){
